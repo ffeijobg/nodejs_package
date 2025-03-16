@@ -1,6 +1,6 @@
 {
-  "name": "my-package",
-  "version": "1.0.0",
+  "name": "@ffeijobg/my-package",
+  "version": "1.0.3",
   "description": "my demo package",
   "main": "index.js",
   "scripts": {
